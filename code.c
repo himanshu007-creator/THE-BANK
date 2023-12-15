@@ -8,6 +8,7 @@ int  main()
 
 {
   printf("******** Welcome to El Banco Corrupto Grande ******** \n");
+  print("noe this is a change");
   printf(" Enter your pin number please: \n");
   scanf("%d",&pin);
     if(pin != 1234)
